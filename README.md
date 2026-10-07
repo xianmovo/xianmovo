@@ -23,7 +23,7 @@ Github:xianmovo: <https://github.com/xianmovo>
 米游社/Mihoyo: <https://www.miyoushe.com/sr/accountCenter/postList?id=326047925>
 
 
-邮箱: <asdqwe666ryt@163.com>
+邮箱: <asdqwe666ryt@163.com> / <xianmovo@gmail.com>
 
 # 统计数据
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xianmovo)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianmovo&show_icons=true&theme=synthwave)
