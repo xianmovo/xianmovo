@@ -17,8 +17,6 @@
 
 Github:xianmovo: <https://github.com/xianmovo>
 
-Github仓库:贤墨の空间站: <https://github.com/xianmovo/xianmovo.github.io>
-
 
 知乎: <https://www.zhihu.com/people/66-22-81-14-6>
 
