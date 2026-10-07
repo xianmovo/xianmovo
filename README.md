@@ -9,9 +9,6 @@
 
 # 快速导航
 
-贤墨の空间站（个人网站）: <https://xianmovo.github.io>
-
-
 哔哩哔哩：贤墨不是墨：<https://space.bilibili.com/1514544877>
 
 
